@@ -41,7 +41,19 @@
 
 ## 💻 Featured Projects
 
-### 🔥 [Go REST API Starter](https://github.com/Rahularya01/go-rest-api-starter)
+### 🔥 [Lexdin Landing Page](https://github.com/Rahularya01/lexdin-landing-page)
+
+A stunning and responsive landing page for the Lexdin platform:
+
+- Built with **Next.js** and **TailwindCSS**.
+- Optimized for performance and SEO.
+- Fully mobile-responsive and accessible.
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rahularya01&repo=lexdin-landing-page&theme=radical)](https://github.com/Rahularya01/lexdin-landing-page)
+
+---
+
+### 🌟 [Go REST API Starter](https://github.com/Rahularya01/go_rest_api_starter)
 
 A simple and beginner-friendly REST API boilerplate in **Go**, featuring:
 
@@ -49,19 +61,7 @@ A simple and beginner-friendly REST API boilerplate in **Go**, featuring:
 - RESTful routing with `chi`
 - PostgreSQL database integration
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rahularya01&repo=go-rest-api-starter&theme=radical)](https://github.com/Rahularya01/go-rest-api-starter)
-
----
-
-### 🌟 [Next.js SaaS Starter](https://github.com/Rahularya01/nextjs-saas-starter)
-
-A starter template for SaaS applications built with **Next.js** and **TypeScript**:
-
-- Authentication using Firebase
-- TailwindCSS for responsive design
-- State management with Zustand
-
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rahularya01&repo=nextjs-saas-starter&theme=radical)](https://github.com/Rahularya01/nextjs-saas-starter)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=Rahularya01&repo=go_rest_api_starter&theme=radical)](https://github.com/Rahularya01/go_rest_api_starter)
 
 ---
 
@@ -75,7 +75,7 @@ A starter template for SaaS applications built with **Next.js** and **TypeScript
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahul-arya-0993841b7/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/Rahularya01)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:rahularya@example.com)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:aryarahul819@gmail.com)
 
 ---
 
